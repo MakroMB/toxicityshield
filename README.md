@@ -138,7 +138,7 @@ print(result)
 
 ---
 
-## 🎓 Para o Currículo
+## 🎓 Resume
 
 ```
 ToxicityShield — Deep Learning for Toxicity Detection in Game Chats
